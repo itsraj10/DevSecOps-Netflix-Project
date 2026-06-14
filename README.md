@@ -28,8 +28,8 @@ The solution integrates:
 ---
 
 # 🏗️ Architecture
-![Uploading Architecture Diagram.jpeg…]()
 
+<img width="2752" height="1536" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/291c6717-a368-4e90-83c9-95d345a0504d" />
 
 
 ### End-to-End Workflow
