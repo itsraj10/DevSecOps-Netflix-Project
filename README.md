@@ -28,8 +28,9 @@ The solution integrates:
 ---
 
 # 🏗️ Architecture
+![Uploading Architecture Diagram.jpeg…]()
 
-![Architecture Diagram](Architecture%20Diagram.jpeg)
+
 
 ### End-to-End Workflow
 
