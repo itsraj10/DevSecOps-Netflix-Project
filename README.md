@@ -1,4 +1,4 @@
-# DevSecOps-Netflix-Project
+<img width="995" height="502" alt="image" src="https://github.com/user-attachments/assets/c75f836d-1834-4687-8dbf-3537d84be2a0" /># DevSecOps-Netflix-Project
 Complete DevSecOps pipeline for a Netflix Clone featuring SonarQube, Trivy, Jenkins, Docker, Prometheus, Grafana, Amazon EKS, and Argo CD.
 
 # 🚀 Deploying a Secure Netflix Clone with DevSecOps & K8s
@@ -316,6 +316,7 @@ Implemented:
 The complete DevSecOps lifecycle was successfully implemented, covering infrastructure provisioning, security scanning, CI/CD automation, monitoring, alerting, Kubernetes orchestration, and GitOps-based deployment.
 
 The Netflix Clone application is fully deployed on Amazon EKS using industry-standard DevSecOps practices.
+<img width="995" height="502" alt="image" src="https://github.com/user-attachments/assets/fe83add3-50f5-46cc-982a-fd3eb189a132" />
 
 ---
 
