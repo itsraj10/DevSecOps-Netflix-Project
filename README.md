@@ -1,6 +1,6 @@
 Complete DevSecOps pipeline for a Netflix Clone featuring SonarQube, Trivy, Jenkins, Docker, Prometheus, Grafana, Amazon EKS, and Argo CD.
 
-# 🚀 Deploying a Secure Netflix Clone with DevSecOps & K8s
+# 🚀 Deploying a Netflix Clone with DevSecOps & K8s
 ### Check out my SOP File ###
 ## 📌 Overview
 
